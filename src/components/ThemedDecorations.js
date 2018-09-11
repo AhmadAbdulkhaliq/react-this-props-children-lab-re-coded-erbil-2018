@@ -13,5 +13,6 @@ class ThemedDecorations extends React.Component{
       </div>
     );
   
+  export default ThemedDecorations
   }
 }
