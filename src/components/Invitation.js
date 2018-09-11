@@ -1,6 +1,6 @@
 // Code Invitation Component Here
 import React from 'react';
-import  from 'prop-ty'
+import PropTypes from 'prop-types';
 
 class Invitation extends React.Component {
 
